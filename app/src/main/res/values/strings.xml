@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">CastWave</string>
+    <string name="cast_to_devices">Cast to devices</string>
+    <string name="select_device">Select device</string>
+    <string name="rescan">Rescan network</string>
+    <string name="tab_audio">Audio</string>
+    <string name="tab_videos">Videos</string>
+    <string name="tab_photos">Photos</string>
+    <string name="tab_files">Files</string>
+    <string name="nothing_playing">Nothing playing</string>
+    <string name="pick_hint">Pick a device, then tap a file to cast it</string>
+    <string name="grant_access">Grant access</string>
+    <string name="pick_files">Pick files</string>
+    <string name="perm_needed">Allow media access to browse your library</string>
+    <string name="empty_media">No media found on this device</string>
+    <string name="empty_files">Pick audio, video or photos from any folder</string>
+    <string name="turn_on_cast">Turn on Cast first</string>
+    <string name="choose_device_first">Select a target device first</string>
+    <string name="devices_title">Available devices</string>
+    <string name="searching_devices">Searching for TVs and renderers on your network…</string>
+    <string name="menu_battery">Background / battery settings</string>
+    <string name="menu_app_settings">App settings</string>
+    <string name="battery_hint">On Xiaomi / HyperOS: set Battery saver to \"No restrictions\" and enable Autostart for CastWave.</string>
+    <string name="action_play">Play</string>
+    <string name="action_pause">Pause</string>
+    <string name="action_stop">Stop</string>
+    <string name="action_off">Turn off</string>
+    <string name="cd_previous">Previous</string>
+    <string name="cd_next">Next</string>
+    <string name="cd_volume">Volume</string>
+</resources>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item
+        android:id="@+id/action_add_files"
+        android:title="@string/pick_files"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/action_battery"
+        android:title="@string/menu_battery"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/action_app_settings"
+        android:title="@string/menu_app_settings"
+        app:showAsAction="never" />
+</menu>
